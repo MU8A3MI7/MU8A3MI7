@@ -1,5 +1,5 @@
-Kia Ora!  [![image](https://github.com/MU8A3MI7/MU8A3MI7/assets/97916545/1caeede1-73d2-43c6-997d-23b6cb0506f2)
-](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Muhaemin Azeez
+Kia Ora!  
+(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Muhaemin Azeez
 ==============================================================================================================================================
 
 Student of Cyber Security at The University of Waikato
